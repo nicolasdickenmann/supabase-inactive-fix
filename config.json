@@ -1,12 +1,12 @@
 [
   {
-    "name": "Database1",
+    "name": "nicolasdickenmann's Project",
     "supabase_url": "https://zkowmelheezjqbwscfnk.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "contacts"
   },
   {
-    "name": "Database2",
+    "name": "googlescholar",
     "supabase_url": "https://apgchjiufgpbzwauasto.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_2",
     "table_name": "embeddings"
