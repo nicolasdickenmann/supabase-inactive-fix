@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Database1",
+    "supabase_url": "https://zkowmelheezjqbwscfnk.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "contacts"
+  },
+  {
+    "name": "Database2",
+    "supabase_url": "https://apgchjiufgpbzwauasto.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "embeddings"
+  }
+]
